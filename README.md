@@ -4,6 +4,7 @@ A PCB business card with NFC capabilities, an SMD LED and a QR code that runs ar
 ## 1. Designing the schematic - 2 hours 30 minutes
    I used EasyEDA to design the schematic
 
+<img width="552" height="635" alt="Screenshot 2026-09-15 123753" src="https://github.com/user-attachments/assets/bc83fad6-c6e7-4ba6-b3b3-d9c6b278c283" />
 <img width="919" height="519" alt="Screenshot 2026-09-15 110938" src="https://github.com/user-attachments/assets/b0cc78bc-d982-41f1-bb35-e39ef453f2c0" />
 
 
